@@ -2,6 +2,9 @@
 It can be use all platforms(mobile,desktop,web etc.)
 All Configuraions possible in images and as you know in normally default format is XML but i changed it to Json this changes available in WebApiConfig.cs file.Also this api will be has better actions(auth. and other custom actions)
 </pre>
+And finally if you try this api;
+1)Open new asp.net mvc project(if you want you can use all platforms;web-mobile-desktop etc.)
+2)Only add a empty home controller and add view and in last image js(jquery-ajax)codes it has a basic interface just focus api communication codes(<script> tag inside) 
 <br>
 
 <img src="https://user-images.githubusercontent.com/29816709/58385644-448ba780-7ffc-11e9-8d5a-4185e1ee6fa1.JPG">
