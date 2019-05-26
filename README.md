@@ -1,6 +1,6 @@
 <pre>Fundamental of Asp.Net Web API
 It can be use all platforms(mobile,desktop,web etc.)
-All Configuraions possible in images and as you know in normally default format is XML bu i changed it to Json this changes available in WebApiConfig.cs file.Also this api will be has better actions(auth. and other custom actions)
+All Configuraions possible in images and as you know in normally default format is XML but i changed it to Json this changes available in WebApiConfig.cs file.Also this api will be has better actions(auth. and other custom actions)
 </pre>
 <br>
 
