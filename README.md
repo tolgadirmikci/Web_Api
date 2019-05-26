@@ -1,6 +1,9 @@
-# Web_Api
-#Asp.Net Web API
+<pre>Fundamental of Asp.Net Web API
+It can be use all platforms(mobile,desktop,web etc.)
+All Configuraions possible in images and as you know in normally default format is XML bu i changed it to Json this changes available in WebApiConfig.cs file.Also this api will be has better actions(auth. and other custom actions)
+</pre>
 <br>
+
 <img src="https://user-images.githubusercontent.com/29816709/58385644-448ba780-7ffc-11e9-8d5a-4185e1ee6fa1.JPG">
 <img src="https://user-images.githubusercontent.com/29816709/58385646-4fded300-7ffc-11e9-8448-133b05ac3a2e.JPG">
 <img src="https://user-images.githubusercontent.com/29816709/58385647-5f5e1c00-7ffc-11e9-894b-3d2e120bbe95.JPG">
